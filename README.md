@@ -1,1 +1,1 @@
-# Cse_366-first_Python-l-1-
+To learn the basic of the python journey on
